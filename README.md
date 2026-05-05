@@ -52,5 +52,5 @@ Singapore contributes a higher share of total sales compared to Malaysia
 Inventory distribution across chains suggests optimization opportunities
 
 7. Screenshots
-See what dashboard looks like:
-Snapshosts:
+See what dashboard looks like: https://github.com/Satyam-BI-ux/Sales-and-Inventory-Performance-Dashboard/blob/main/Sales%20%26%20Inventory%20Performance%20Dashboard.pbit
+Snapshosts:https://github.com/Satyam-BI-ux/Sales-and-Inventory-Performance-Dashboard/blob/main/Summary.png, https://github.com/Satyam-BI-ux/Sales-and-Inventory-Performance-Dashboard/blob/main/Product%20Performance.png, https://github.com/Satyam-BI-ux/Sales-and-Inventory-Performance-Dashboard/blob/main/Inventory%20Insights.png
